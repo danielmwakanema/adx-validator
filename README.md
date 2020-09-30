@@ -1,4 +1,4 @@
-# Aggregated Data Exchange Validation Worker
+# Aggregated Data Exchange Validation Service
 
 ## Description
 
